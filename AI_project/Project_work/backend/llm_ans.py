@@ -16,7 +16,7 @@ import time
 from groq import Groq
 
 # ── Settings ──────────────────────────────────────────────────────────────────
-GROQ_API_KEY = "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"     
+GROQ_API_KEY = "gsk_xxxxxxxxxxxxxxxxxxxxxxxx"     
 MODEL_NAME   = "llama-3.1-8b-instant"         # free, fast, high quality
 TEMPERATURE  = 0.1                      # low = more factual answers
 MAX_TOKENS   = 1024                     # max response tokens

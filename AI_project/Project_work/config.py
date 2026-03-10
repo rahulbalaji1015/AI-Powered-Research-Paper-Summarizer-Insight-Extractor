@@ -53,7 +53,7 @@ MEMORY_FILE          = data("chat_memory.json")
 DB_FILE              = data("rag_chat.db")
 
 # ── Model + LLM settings ──────────────────────────────────────────────────────
-GROQ_API_KEY  = "gsk_***************"        # ← paste your Groq key here
+GROQ_API_KEY  = "gsk_xxxxxxxxxxxxxxxxxxxxxx"        # ← paste your Groq key here
 LLM_MODEL     = "llama-3.1-8b-instant"
 EMBED_MODEL   = "all-MiniLM-L6-v2"
 TEMPERATURE   = 0.2

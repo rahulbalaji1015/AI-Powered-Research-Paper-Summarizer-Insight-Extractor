@@ -23,7 +23,7 @@ from sentence_transformers import SentenceTransformer
 from groq import Groq
 
 # ── Settings ──────────────────────────────────────────────────────────────────
-GROQ_API_KEY  = "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"      # ← paste your Groq API key
+GROQ_API_KEY  = "gsk_xxxxxxxxxxxxxxxxxxxxxxxx"      # ← paste your Groq API key
 LLM_MODEL     = "llama-3.1-8b-instant"
 EMBED_MODEL   = "all-MiniLM-L6-v2"
 TEMPERATURE   = 0.1
