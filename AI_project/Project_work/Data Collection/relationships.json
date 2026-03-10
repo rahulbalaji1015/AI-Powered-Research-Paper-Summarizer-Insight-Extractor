@@ -1,0 +1,335 @@
+[
+  {
+    "relationshipType": "STRIKE"
+  },
+  {
+    "relationshipType": "EMPLOY"
+  },
+  {
+    "relationshipType": "COMPUTE"
+  },
+  {
+    "relationshipType": "DEFINE"
+  },
+  {
+    "relationshipType": "COUNT"
+  },
+  {
+    "relationshipType": "USE"
+  },
+  {
+    "relationshipType": "DESCRIBE"
+  },
+  {
+    "relationshipType": "BASE"
+  },
+  {
+    "relationshipType": "INTRODUCE"
+  },
+  {
+    "relationshipType": "RUN"
+  },
+  {
+    "relationshipType": "ANALYZE"
+  },
+  {
+    "relationshipType": "SELECT"
+  },
+  {
+    "relationshipType": "CONTINUE"
+  },
+  {
+    "relationshipType": "CHOOSE"
+  },
+  {
+    "relationshipType": "CR"
+  },
+  {
+    "relationshipType": "FUSE"
+  },
+  {
+    "relationshipType": "DO"
+  },
+  {
+    "relationshipType": "DOWNLOAD"
+  },
+  {
+    "relationshipType": "INCLUDE"
+  },
+  {
+    "relationshipType": "DISCERN"
+  },
+  {
+    "relationshipType": "BIN"
+  },
+  {
+    "relationshipType": "FACILITATE"
+  },
+  {
+    "relationshipType": "SUPPORT"
+  },
+  {
+    "relationshipType": "ENSURE"
+  },
+  {
+    "relationshipType": "MESSAGEFRANKE"
+  },
+  {
+    "relationshipType": "AIM"
+  },
+  {
+    "relationshipType": "PRESENT"
+  },
+  {
+    "relationshipType": "ENCRYPT"
+  },
+  {
+    "relationshipType": "CLOUD"
+  },
+  {
+    "relationshipType": "COMPARISON"
+  },
+  {
+    "relationshipType": "IMPLEMENT"
+  },
+  {
+    "relationshipType": "PROVE"
+  },
+  {
+    "relationshipType": "ENCAPSULATE"
+  },
+  {
+    "relationshipType": "HAVE"
+  },
+  {
+    "relationshipType": "EXIST"
+  },
+  {
+    "relationshipType": "BRECEIVE"
+  },
+  {
+    "relationshipType": "PICK"
+  },
+  {
+    "relationshipType": "AQUERIE"
+  },
+  {
+    "relationshipType": "BADD"
+  },
+  {
+    "relationshipType": "JHAD"
+  },
+  {
+    "relationshipType": "ABORT"
+  },
+  {
+    "relationshipType": "RETURN"
+  },
+  {
+    "relationshipType": "KNOW"
+  },
+  {
+    "relationshipType": "ACHIEVE"
+  },
+  {
+    "relationshipType": "MITIGATE"
+  },
+  {
+    "relationshipType": "PRESERVE"
+  },
+  {
+    "relationshipType": "RESIST"
+  },
+  {
+    "relationshipType": "PROVIDE"
+  },
+  {
+    "relationshipType": "OFFER"
+  },
+  {
+    "relationshipType": "PERFORM"
+  },
+  {
+    "relationshipType": "SHOW"
+  },
+  {
+    "relationshipType": "EMBED"
+  },
+  {
+    "relationshipType": "DETECT"
+  },
+  {
+    "relationshipType": "SUPERVISE"
+  },
+  {
+    "relationshipType": "ASSIST"
+  },
+  {
+    "relationshipType": "PREPRINT"
+  },
+  {
+    "relationshipType": "CHARACTERIZE"
+  },
+  {
+    "relationshipType": "REVEAL"
+  },
+  {
+    "relationshipType": "LEARN"
+  },
+  {
+    "relationshipType": "OPTIMIZE"
+  },
+  {
+    "relationshipType": "RECEIVE"
+  },
+  {
+    "relationshipType": "COAUTHORE"
+  },
+  {
+    "relationshipType": "RECOGNIZE"
+  },
+  {
+    "relationshipType": "STREAM"
+  },
+  {
+    "relationshipType": "GENERATE"
+  },
+  {
+    "relationshipType": "WORK"
+  },
+  {
+    "relationshipType": "SERVE"
+  },
+  {
+    "relationshipType": "PUBLISH"
+  },
+  {
+    "relationshipType": "SAMPLE"
+  },
+  {
+    "relationshipType": "_"
+  },
+  {
+    "relationshipType": "DEAL"
+  },
+  {
+    "relationshipType": "EXTEND"
+  },
+  {
+    "relationshipType": "ESTIMATE"
+  },
+  {
+    "relationshipType": "PROPOSE"
+  },
+  {
+    "relationshipType": "ESCALATE"
+  },
+  {
+    "relationshipType": "REMAIN"
+  },
+  {
+    "relationshipType": "COMPARE"
+  },
+  {
+    "relationshipType": "REPRESENT"
+  },
+  {
+    "relationshipType": "REACH"
+  },
+  {
+    "relationshipType": "NEED"
+  },
+  {
+    "relationshipType": "RECORD"
+  },
+  {
+    "relationshipType": "OBSERVE"
+  },
+  {
+    "relationshipType": "DISTINGUISH"
+  },
+  {
+    "relationshipType": "SURPASS"
+  },
+  {
+    "relationshipType": "CONTRIBUTE"
+  },
+  {
+    "relationshipType": "FIGURE"
+  },
+  {
+    "relationshipType": "ATTRIBUTE"
+  },
+  {
+    "relationshipType": "INSPIRE"
+  },
+  {
+    "relationshipType": "MAINTAIN"
+  },
+  {
+    "relationshipType": "REGAIN"
+  },
+  {
+    "relationshipType": "BIOINSPIRE"
+  },
+  {
+    "relationshipType": "EXHIBIT"
+  },
+  {
+    "relationshipType": "EPITOMIZE"
+  },
+  {
+    "relationshipType": "ENCOMPASS"
+  },
+  {
+    "relationshipType": "CONDUCT"
+  },
+  {
+    "relationshipType": "BE"
+  },
+  {
+    "relationshipType": "DETERMINE"
+  },
+  {
+    "relationshipType": "_CORRESPONDE"
+  },
+  {
+    "relationshipType": "TACKLE"
+  },
+  {
+    "relationshipType": "MAXOUT"
+  },
+  {
+    "relationshipType": "RESEARCH"
+  },
+  {
+    "relationshipType": "TERE"
+  },
+  {
+    "relationshipType": "BEAR"
+  },
+  {
+    "relationshipType": "PLAY"
+  },
+  {
+    "relationshipType": "REFER"
+  },
+  {
+    "relationshipType": "ALSOSUPPORTE"
+  },
+  {
+    "relationshipType": "DEVELOP"
+  },
+  {
+    "relationshipType": "CHANGE"
+  },
+  {
+    "relationshipType": "POWER"
+  },
+  {
+    "relationshipType": "CONFER"
+  },
+  {
+    "relationshipType": "RELATION"
+  }
+]

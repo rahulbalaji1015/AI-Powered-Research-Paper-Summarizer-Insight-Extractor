@@ -1,0 +1,802 @@
+[
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R01",
+        "Citation Count": 127.0,
+        "Citated year": 2010,
+        "Reference Title": "Decentralized online social networks",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-1-4419-7142-5_17"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R02",
+        "Citation Count": 123.0,
+        "Citated year": 2017,
+        "Reference Title": "Credibility in social media: Opinions, news, and health information—A survey",
+        "Reference link": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1209"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R03",
+        "Citation Count": 142.0,
+        "Citated year": 2020,
+        "Reference Title": "When blockchain meets online social networks",
+        "Reference link": "https://www.sciencedirect.com/science/article/abs/pii/S1574119220300195?via%3Dihub"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R04",
+        "Citation Count": 326.0,
+        "Citated year": 2012,
+        "Reference Title": "The Token Economy: A Review and Evaluation",
+        "Reference link": "https://link.springer.com/book/10.1007/978-1-4613-4121-5"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R05",
+        "Citation Count": 23.0,
+        "Citated year": 2021,
+        "Reference Title": "Exploring content moderation in the decentralised Web: The pleroma case",
+        "Reference link": "https://dl.acm.org/doi/10.1145/3485983.3494838"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R06",
+        "Citation Count": 15.0,
+        "Citated year": 2023,
+        "Reference Title": "Moderating the fediverse: Content moderation on distributed social media",
+        "Reference link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213674"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R07",
+        "Citation Count": 57.0,
+        "Citated year": 2021,
+        "Reference Title": "A graph-based socioeconomic analysis of steemit",
+        "Reference link": "https://ieeexplore.ieee.org/document/9298888"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R08",
+        "Citation Count": 13.0,
+        "Citated year": 2022,
+        "Reference Title": "How to reward the Web: The social dApp yup",
+        "Reference link": "https://www.sciencedirect.com/science/article/pii/S2468696422000325?via%3Dihub"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R09",
+        "Citation Count": 9.0,
+        "Citated year": 2020,
+        "Reference Title": "Users and bots behaviour analysis in blockchain social media",
+        "Reference link": "https://ieeexplore.ieee.org/document/9336540"
+    },
+    {
+        "Paper_ID": "P01",
+        "Reference ID": "R10",
+        "Citation Count": 3.0,
+        "Citated year": 2022,
+        "Reference Title": "Impact of monetary rewards on users’ behavior in social media",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-030-93409-5_53"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R11",
+        "Citation Count": 69.0,
+        "Citated year": 2024,
+        "Reference Title": "IIFDD: Intra and inter-modal fusion for depression detec-tion with multi-modal information from Internet of Medical Things",
+        "Reference link": "https://www.sciencedirect.com/science/article/pii/S1566253523003330"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R12",
+        "Citation Count": 25.0,
+        "Citated year": 2008,
+        "Reference Title": "Improved a posteriori speech presence probability estimation based on a likelihood ratio with fixed priors",
+        "Reference link": "https://ieeexplore.ieee.org/document/4528532"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R13",
+        "Citation Count": 15.0,
+        "Citated year": 2021,
+        "Reference Title": "Deep audio-visual learning: A survey",
+        "Reference link": "https://link.springer.com/article/10.1007/s11633-021-1291-2"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R14",
+        "Citation Count": 6.0,
+        "Citated year": 2010,
+        "Reference Title": "Improved speech presence probabilities using HMM-based inference, with applications to speech enhancement and ASR",
+        "Reference link": "https://ieeexplore.ieee.org/document/5451104"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R15",
+        "Citation Count": 18.0,
+        "Citated year": 2024,
+        "Reference Title": "Predicting humans future motion trajectories in video streams using generative adversarial network",
+        "Reference link": "https://link.springer.com/article/10.1007/s11042-021-11457-z"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R16",
+        "Citation Count": 18.0,
+        "Citated year": 2021,
+        "Reference Title": "On filter generalization for music bandwidth extension using deep neural networks",
+        "Reference link": "https://ieeexplore.ieee.org/document/9257456"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R17",
+        "Citation Count": 17.0,
+        "Citated year": 2011,
+        "Reference Title": "Mask classification for missing-feature reconstruction for robust speech recognition in unknown background noise",
+        "Reference link": "https://www.sciencedirect.com/science/article/abs/pii/S0167639310001391"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R18",
+        "Citation Count": 463.0,
+        "Citated year": 2016,
+        "Reference Title": "Fusing audio, visual and textual clues for sentiment analysis from multimodal content",
+        "Reference link": "https://www.sciencedirect.com/science/article/abs/pii/S0925231215011297"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R19",
+        "Citation Count": 17.0,
+        "Citated year": 2008,
+        "Reference Title": "Deblocking filtering for illumination compensation in multiview video coding",
+        "Reference link": "https://ieeexplore.ieee.org/document/4633655"
+    },
+    {
+        "Paper_ID": "P02",
+        "Reference ID": "R20",
+        "Citation Count": 39.0,
+        "Citated year": 2014,
+        "Reference Title": "Glottal spectral separation for speech synthesis",
+        "Reference link": "https://ieeexplore.ieee.org/document/6746006"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R21",
+        "Citation Count": 969.0,
+        "Citated year": 1998,
+        "Reference Title": "A practical public key cryptosystem provably secure against adaptive chosen ciphertext attack",
+        "Reference link": "https://link.springer.com/chapter/10.1007/BFb0055717"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R22",
+        "Citation Count": 796.0,
+        "Citated year": 2005,
+        "Reference Title": "Collusion resistant broadcast encryption with short ciphertexts and private keys",
+        "Reference link": "https://link.springer.com/chapter/10.1007/11535218_16"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R23",
+        "Citation Count": 2476.0,
+        "Citated year": 2004,
+        "Reference Title": "Public key encryption with keyword search",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-540-24676-3_30"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R24",
+        "Citation Count": 344.0,
+        "Citated year": 2017,
+        "Reference Title": "An efficient public-key searchable encryption scheme secure against inside keyword guessing attacks",
+        "Reference link": "https://www.sciencedirect.com/science/article/abs/pii/S0020025516321090"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R25",
+        "Citation Count": 74.0,
+        "Citated year": 2019,
+        "Reference Title": "Match me if you can: Matchmaking encryption and its applications",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R26",
+        "Citation Count": 8.0,
+        "Citated year": 2024,
+        "Reference Title": "Privacy-preserving bilateral multi-receiver matching with revocability for mobile social networks",
+        "Reference link": "https://ieeexplore.ieee.org/document/10502170"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R27",
+        "Citation Count": 37.0,
+        "Citated year": 2023,
+        "Reference Title": "Privacy-aware and security-enhanced efficient matchmaking encryption",
+        "Reference link": "https://ieeexplore.ieee.org/document/10180078"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R28",
+        "Citation Count": 250.0,
+        "Citated year": 2016,
+        "Reference Title": "Messenger secret conversations technical whitepaper",
+        "Reference link": "https://about.fb.com/wp-content/uploads/2016/07/messenger-secret-conversations-technical-whitepaper.pdf"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R29",
+        "Citation Count": 75.0,
+        "Citated year": 2017,
+        "Reference Title": "Message franking via committing authenticated encryption",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-319-63697-9_3"
+    },
+    {
+        "Paper_ID": "P03",
+        "Reference ID": "R30",
+        "Citation Count": 36.0,
+        "Citated year": 2019,
+        "Reference Title": "Asymmetric message franking: Content moderation for metadata-private end-to-end encryption",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-030-26954-8_8"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R31",
+        "Citation Count": 113.0,
+        "Citated year": 2024,
+        "Reference Title": "(In)visible moderation: A digital ethnography of marginalized users and content moderation on twitch and Reddit",
+        "Reference link": "https://journals.sagepub.com/doi/full/10.1177/14614448221109804?_gl=1*4qm5g1*_up*MQ..*_ga*MjU5MjUxOTk3LjE3NzAyNzYwNjE.*_ga_60R758KFDG*czE3NzAyNzYwNjAkbzEkZzEkdDE3NzAyNzYwNjckajUzJGwwJGgxNzQ4MjQwMzcx"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R32",
+        "Citation Count": 68.0,
+        "Citated year": 2023,
+        "Reference Title": "The  psychological  impacts  of  content moderation  on  content  moderators: A  qualitative  study, Cyberpsychology",
+        "Reference link": "https://cyberpsychology.eu/article/view/33166"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R33",
+        "Citation Count": 5.0,
+        "Citated year": 2024,
+        "Reference Title": " The effect of content moderation on online and offline hate: Evidence from  Germany’s  NetzDG.  Coventry",
+        "Reference link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4230296"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R34",
+        "Citation Count": 697.0,
+        "Citated year": 2017,
+        "Reference Title": "Deep learning for hate speech detection in tweets",
+        "Reference link": "https://dl.acm.org/doi/10.1145/3041021.3054223"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R35",
+        "Citation Count": 4.0,
+        "Citated year": 2023,
+        "Reference Title": "Multigrained  representation  analysis and  ensemble  learning  for  text  moderation",
+        "Reference link": "https://ieeexplore.ieee.org/document/9703107"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R36",
+        "Citation Count": 120.0,
+        "Citated year": 2024,
+        "Reference Title": "Watch your  language: Investigating  content  moderation  with large language models",
+        "Reference link": "https://ojs.aaai.org/index.php/ICWSM/article/view/31358/33518"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R37",
+        "Citation Count": 2.0,
+        "Citated year": 2018,
+        "Reference Title": "Author  profiling  for  abuse  detection",
+        "Reference link": "https://aclanthology.org/C18-1092/"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R38",
+        "Citation Count": 48.0,
+        "Citated year": 2017,
+        "Reference Title": "Improved abusive comment moderation with  user  embeddings",
+        "Reference link": "https://aclanthology.org/W17-4209/"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R39",
+        "Citation Count": 2.0,
+        "Citated year": 2023,
+        "Reference Title": " NLP  based  hate  speech  detection  and moderation",
+        "Reference link": "https://ieeexplore.ieee.org/document/10333320"
+    },
+    {
+        "Paper_ID": "P04",
+        "Reference ID": "R40",
+        "Citation Count": 40.0,
+        "Citated year": 2023,
+        "Reference Title": "Transfer  learning  for  hate  speech  detection  in social  media",
+        "Reference link": "https://link.springer.com/article/10.1007/s42001-023-00224-9"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R41",
+        "Citation Count": 242.0,
+        "Citated year": 1967,
+        "Reference Title": "The  Social  Construction  of Reality:  A  Treatise  in  the  Sociology  of  Knowledge",
+        "Reference link": "https://amstudugm.wordpress.com/wp-content/uploads/2011/04/social-construction-of-reality.pdf"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R42",
+        "Citation Count": 61.0,
+        "Citated year": 1973,
+        "Reference Title": "Perceptual-cognitive explorations of a toroidal set of free-form stimuli",
+        "Reference link": "https://www.sciencedirect.com/science/article/abs/pii/0010028573900182"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R43",
+        "Citation Count": 27.0,
+        "Citated year": 2021,
+        "Reference Title": " Idiosyncratic tower of babel: Individual differences  in  word-meaning  representation  increase  as word abstractness increases",
+        "Reference link": "https://journals.sagepub.com/doi/10.1177/09567976211003877"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R44",
+        "Citation Count": 4383.0,
+        "Citated year": 2018,
+        "Reference Title": " How Emotions Are Made: The Secret Life of the Brain",
+        "Reference link": "https://philpapers.org/rec/BARHEA-14"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R45",
+        "Citation Count": 43.0,
+        "Citated year": 2022,
+        "Reference Title": "Genetic  algorithms  reveal  profound individual  differences  in  emotion  recognition",
+        "Reference link": "https://www.pnas.org/doi/10.1073/pnas.2201380119"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R46",
+        "Citation Count": 106.0,
+        "Citated year": 2022,
+        "Reference Title": "Situational  factors  shape  moral judgements  in  the  trolley  dilemma  in  Eastern,  Southern and Western countries in a culturally diverse sample",
+        "Reference link": "https://www.nature.com/articles/s41562-022-01319-5"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R47",
+        "Citation Count": 51.0,
+        "Citated year": 2021,
+        "Reference Title": "Experimental  evidence  for  scale-induced  category convergence  across  populations",
+        "Reference link": "https://www.nature.com/articles/s41467-020-20037-y"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R48",
+        "Citation Count": 2330.0,
+        "Citated year": 2018,
+        "Reference Title": "Custodians  of  the  Internet:  Platforms,  Content Moderation,  and  the  Hidden  Decisions  That  Shape  Social Media",
+        "Reference link": "https://www.researchgate.net/publication/327186182_Custodians_of_the_internet_Platforms_content_moderation_and_the_hidden_decisions_that_shape_social_media"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R49",
+        "Citation Count": 1408.0,
+        "Citated year": 2019,
+        "Reference Title": "Behind the Screen: Content Moderation in the Shadows  of  Social  Media",
+        "Reference link": "https://markovicdejan.com/wp-content/uploads/2022/03/Text-1_Sarah-T.-Roberts-Behind-The-Screen_Digital-Humanity.pdf"
+    },
+    {
+        "Paper_ID": "P05",
+        "Reference ID": "R50",
+        "Citation Count": 69.0,
+        "Citated year": 2021,
+        "Reference Title": "The  disagreement  deconvolution:  Bringing machine learning performance metrics in line with reality, in Proc",
+        "Reference link": "https://dl.acm.org/doi/10.1145/3411764.3445423"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R51",
+        "Citation Count": 1240.0,
+        "Citated year": 2017,
+        "Reference Title": "Deep convolutional neural networks and data augmentation for environmental sound classification",
+        "Reference link": "https://ieeexplore.ieee.org/document/7829341"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R52",
+        "Citation Count": 77.0,
+        "Citated year": 2017,
+        "Reference Title": "Feature learning with matrix factorization applied to acoustic scene classification",
+        "Reference link": "https://ieeexplore.ieee.org/document/7933045"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R53",
+        "Citation Count": 23.0,
+        "Citated year": 2016,
+        "Reference Title": "Detection of overlapping acoustic events using a temporally-constrained probabilistic model",
+        "Reference link": "https://ieeexplore.ieee.org/document/7472919"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R54",
+        "Citation Count": 141.0,
+        "Citated year": 2015,
+        "Reference Title": "Unsupervised feature learning for urban sound classification",
+        "Reference link": "https://ieeexplore.ieee.org/document/7177954"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R55",
+        "Citation Count": 52.0,
+        "Citated year": 2015,
+        "Reference Title": "Feature learning with deep scattering for urban sound analysis",
+        "Reference link": "https://ieeexplore.ieee.org/document/7362478"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R56",
+        "Citation Count": 43.0,
+        "Citated year": 2015,
+        "Reference Title": "Improving event detection for audio surveil-lance using gabor filterbank features",
+        "Reference link": "https://ieeexplore.ieee.org/document/7362476"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R57",
+        "Citation Count": 211.0,
+        "Citated year": 2016,
+        "Reference Title": "Acoustic scene classification using parallel combination of LSTM and CNN",
+        "Reference link": "https://dcase.community/documents/workshop2016/proceedings/Bae-DCASE2016workshop.pdf"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R58",
+        "Citation Count": 139.0,
+        "Citated year": 2014,
+        "Reference Title": "Improved musical onset detection with convolutional neural networks",
+        "Reference link": "https://ieeexplore.ieee.org/document/6854953"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R59",
+        "Citation Count": 1828.0,
+        "Citated year": 2014,
+        "Reference Title": "Convolutional neural networks for speech recognition",
+        "Reference link": "https://ieeexplore.ieee.org/document/6857341"
+    },
+    {
+        "Paper_ID": "P06",
+        "Reference ID": "R60",
+        "Citation Count": 273.0,
+        "Citated year": 2014,
+        "Reference Title": "Speech emotion recognition using CNN",
+        "Reference link": "https://dl.acm.org/doi/10.1145/2647868.2654984"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R61",
+        "Citation Count": 19.0,
+        "Citated year": 2023,
+        "Reference Title": "Cross-platform item recommendation for online social E-Commerce",
+        "Reference link": "https://ieeexplore.ieee.org/document/9492753"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R62",
+        "Citation Count": 16.0,
+        "Citated year": 2023,
+        "Reference Title": "A citizen science approach for analyzing social media with crowdsourcing",
+        "Reference link": "https://ieeexplore.ieee.org/document/10041135"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R63",
+        "Citation Count": 16.0,
+        "Citated year": 2023,
+        "Reference Title": "Disentangled modeling of social homophily and influence for social recommendation",
+        "Reference link": "https://ieeexplore.ieee.org/document/9827970"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R64",
+        "Citation Count": 22.0,
+        "Citated year": 2023,
+        "Reference Title": "Deep learning-based drug recommenda-tion and ADR detection healthcare model on social media",
+        "Reference link": "https://www.semanticscholar.org/paper/Deep-Learning-Based-Drug-Recommendation-and-ADR-on-Dongre-Agrawal/4b896ff3b8ef9cc3f23f5f0307bcab4a81696504"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R65",
+        "Citation Count": 8.0,
+        "Citated year": 2023,
+        "Reference Title": "Combining social relations and interaction data in recommender system with graph convolution collaborative filtering",
+        "Reference link": "https://ieeexplore.ieee.org/document/10347223"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R66",
+        "Citation Count": 16.0,
+        "Citated year": 2023,
+        "Reference Title": "A deep learning-based framework for offensive text detection in unstructured data for heterogeneous social media",
+        "Reference link": "https://ieeexplore.ieee.org/document/10309916"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R67",
+        "Citation Count": 5.0,
+        "Citated year": 2023,
+        "Reference Title": "Achieving online and scalable information integrity by harnessing social spam correlations",
+        "Reference link": "https://ieeexplore.ieee.org/document/10015743"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R68",
+        "Citation Count": 44.0,
+        "Citated year": 2023,
+        "Reference Title": "SGNR: A social graph neural network based interactive recommendation scheme for E-Commerce",
+        "Reference link": "https://ieeexplore.ieee.org/document/10011155"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R69",
+        "Citation Count": 6.0,
+        "Citated year": 2023,
+        "Reference Title": "Real-time detection of COVID-19 events from Twitter: A spatial–temporally bursty-aware method",
+        "Reference link": "https://ieeexplore.ieee.org/document/9769765"
+    },
+    {
+        "Paper_ID": "P07",
+        "Reference ID": "R70",
+        "Citation Count": 12.0,
+        "Citated year": 2023,
+        "Reference Title": "ML-NLPEmot: Machine learning-natural language processing event-based emotion detection proactive framework addressing mental health",
+        "Reference link": "https://www.researchgate.net/publication/376529187_ML-NLPEmot_Machine_Learning-Natural_Language_Processing_NLP_Event-based_Emotion_Detection_Proactive_Framework_Addressing_Mental_Health"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R71",
+        "Citation Count": 5.0,
+        "Citated year": 2021,
+        "Reference Title": "Popular practices for online musicking and performance: Developing creative dispositions for music education and the Internet",
+        "Reference link": "https://intellectdiscover.com/content/journals/10.1386/jpme_00018_1"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R72",
+        "Citation Count": 14.0,
+        "Citated year": 2017,
+        "Reference Title": "Integrated Engineering Design Education: Vertical and Lateral Learning",
+        "Reference link": "https://journals.sagepub.com/doi/10.3233/jid-2016-0024"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R73",
+        "Citation Count": 8.0,
+        "Citated year": 2020,
+        "Reference Title": "A Blockchain based Decentralized Video Streaming Platform with Content Protection System",
+        "Reference link": "https://ieeexplore.ieee.org/document/9392746"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R74",
+        "Citation Count": 2.0,
+        "Citated year": 2022,
+        "Reference Title": "Meta-AF: Meta-Learning for Adaptive Filters.",
+        "Reference link": "https://dl.acm.org/doi/10.1109/TASLP.2022.3224288"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R75",
+        "Citation Count": 1.0,
+        "Citated year": 2017,
+        "Reference Title": "Dynamic reordering bloom filter",
+        "Reference link": "https://iopscience.iop.org/article/10.1088/1742-6596/1684/1/012145"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R76",
+        "Citation Count": 18.0,
+        "Citated year": 2017,
+        "Reference Title": "A survey of fuzzy cognitive maps forecasting methods",
+        "Reference link": "https://ieeexplore.ieee.org/document/8316443"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R77",
+        "Citation Count": 10.0,
+        "Citated year": 1995,
+        "Reference Title": "FATE: fuzzy logic automatic transmission expert system",
+        "Reference link": "https://www.semanticscholar.org/paper/FATE%3A-fuzzy-logic-automatic-transmission-expert-Bastian-Tano/f47864cba4fc3ebd9593202dbb847e8fe135fdf0"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R78",
+        "Citation Count": 21.0,
+        "Citated year": 2014,
+        "Reference Title": "Convolutional maxout neural networks for low-resource speech recognition",
+        "Reference link": "https://ieeexplore.ieee.org/document/6936676"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R79",
+        "Citation Count": 80.0,
+        "Citated year": 2021,
+        "Reference Title": "Review of deep learning: concepts, CNN architectures, challenges, applications, future directions",
+        "Reference link": "https://link.springer.com/article/10.1186/s41239-020-00219-w"
+    },
+    {
+        "Paper_ID": "P08",
+        "Reference ID": "R80",
+        "Citation Count": 1047.0,
+        "Citated year": 2020,
+        "Reference Title": "Convolutional neural network: a review of models, methodologies and applications to object detection",
+        "Reference link": "https://link.springer.com/article/10.1007/s13748-019-00203-0"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R81",
+        "Citation Count": 120.0,
+        "Citated year": 2020,
+        "Reference Title": "An introduction to YouTube policies and guidelines",
+        "Reference link": "https://www.youtube.com/creators/how-things-work/policies-guidelines/"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R82",
+        "Citation Count": 40.0,
+        "Citated year": 2020,
+        "Reference Title": "Content Moderation Services",
+        "Reference link": "https://lionbridge.ai/services/content-moderation/"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R83",
+        "Citation Count": 55.0,
+        "Citated year": 2020,
+        "Reference Title": "Video moderation with the Review tool",
+        "Reference link": "https://docs.microsoft.com/ en-us/azure/cognitive-services/content-moderator/ "
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R84",
+        "Citation Count": 210.0,
+        "Citated year": 2020,
+        "Reference Title": "Violent threats policy",
+        "Reference link": "https://help.x.com/en/rules-and-policies/violent-entities"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R85",
+        "Citation Count": 38.0,
+        "Citated year": 2021,
+        "Reference Title": "A theoretical model for pattern discovery in visual analytics",
+        "Reference link": "https://www.sciencedirect.com/science/article/pii/S2468502X20300930?via%3Dihub"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R86",
+        "Citation Count": 499.0,
+        "Citated year": 2011,
+        "Reference Title": "Violence Detection in Video Using Computer Vision Techniques",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-642-23678-5_39"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R87",
+        "Citation Count": 21.0,
+        "Citated year": 2012,
+        "Reference Title": "State of the Art Report on Video-Based Graphics and Video Visualization",
+        "Reference link": "https://dl.acm.org/doi/10.1111/j.1467-8659.2012.03158.x"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R88",
+        "Citation Count": 44.0,
+        "Citated year": 2008,
+        "Reference Title": "Action-Based Multifield Video Visualization",
+        "Reference link": "https://ieeexplore.ieee.org/document/4530419"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R89",
+        "Citation Count": 179.0,
+        "Citated year": 2019,
+        "Reference Title": "Live Streaming Commerce: Uses and Gratifications Approach to Understanding Consumer's Motivations",
+        "Reference link": "https://www.semanticscholar.org/paper/Live-Streaming-Commerce%3A-Uses-and-Gratifications-to-Cai-Wohn/5ceb466bdfd297fa854186004d5a491f1de6b777"
+    },
+    {
+        "Paper_ID": "P09",
+        "Reference ID": "R90",
+        "Citation Count": 69.0,
+        "Citated year": 2017,
+        "Reference Title": "Multimodal Classification of Moderated Online Pro-Eating Disorder Content",
+        "Reference link": "https://dl.acm.org/doi/10.1145/3025453.3025985"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R91",
+        "Citation Count": 2.0,
+        "Citated year": 2024,
+        "Reference Title": "Nemesis: Combating abusive information in encrypted messaging with private reporting",
+        "Reference link": "https://link.springer.com/chapter/10.1007/978-3-031-70890-9_13"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R92",
+        "Citation Count": 33.0,
+        "Citated year": 2019,
+        "Reference Title": "In encryption we don’t trust: The effect of end-to-end encryption to the masses on user perception",
+        "Reference link": "https://ieeexplore.ieee.org/document/8806742"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R93",
+        "Citation Count": null,
+        "Citated year": 2018,
+        "Reference Title": "Disinformation spreads on Whatsapp ahead of Brazilian election",
+        "Reference link": "https://www.nytimes.com/2018/10/19/technology/whatsapp-brazil-presidential-election.html"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R94",
+        "Citation Count": null,
+        "Citated year": 2018,
+        "Reference Title": "One of the biggest publishers of election misinfo earned up to $1.1 million in google ad revenue",
+        "Reference link": "https://counterhate.com/blog/one-of-the-biggest-publishers-of-election-misinfo-earned-up-to-1-1-million-in-google-ad-revenue/"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R95",
+        "Citation Count": null,
+        "Citated year": 2018,
+        "Reference Title": "Whatsapp skewed Brazilian election, showing social media’s danger to democracy",
+        "Reference link": "https://theconversation.com/whatsapp-skewed-brazilian-election-showing-social-medias-danger-to-democracy-106476"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R96",
+        "Citation Count": null,
+        "Citated year": 2018,
+        "Reference Title": "On Whatsapp, fake news is fast — and can be fatal",
+        "Reference link": "https://www.washingtonpost.com/business/economy/on-whatsapp-fake-news-is-fast--and-can-be-fatal/2018/07/23/a2dd7112-8ebf-11e8-bcd5-9d911c784c38_story.html"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R97",
+        "Citation Count": 6.0,
+        "Citated year": 2021,
+        "Reference Title": "Online Rumors, Misinformation and Disinformation: The Perfect Storm of Covid-19 and Election2020, Berkeley, CA, USA",
+        "Reference link": "https://www.usenix.org/conference/enigma2021/presentation/starbird"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R98",
+        "Citation Count": null,
+        "Citated year": 2018,
+        "Reference Title": "Open letter: Facebook’s “privacy first” proposals",
+        "Reference link": "https://www.justice.gov/archives/opa/press-release/file/1207081/dl?inline="
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R99",
+        "Citation Count": 240.0,
+        "Citated year": 2020,
+        "Reference Title": "International statement: End-to-end encryption and public safety",
+        "Reference link": "https://www.justice.gov/archives/opa/pr/international-statement-end-end-encryption-and-public-safety"
+    },
+    {
+        "Paper_ID": "P10",
+        "Reference ID": "R100",
+        "Citation Count": 310.0,
+        "Citated year": 2023,
+        "Reference Title": "Csam detection",
+        "Reference link": "https://www.apple.com/child-safety/"
+    }
+]

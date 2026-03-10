@@ -1,0 +1,112 @@
+[
+    {
+        "Paper_ID": "P01",
+        "Paper title": "Striking the Balance: Evaluating Content Quality and Reward Dynamics in Blockchain Online Social Media",
+        "Authors": "Davide Mancino; Barbara Guidi; Andrea Michienzi; Marco Viviani",
+        "Author affiliations / institutions": "1Dipartimento di Informatica, Sistemistica e Comunicazione, Università degli Studi di Milano-Bicocca, 20127 Milan, Italy ,2Dipartimento di Informatica, Università degli Studi di Pisa, 56127 Pisa, Italy",
+        "Publication year": 2025,
+        "Journal / conference name": "IEEE Access",
+        "DOI / arXiv ID / PubMed ID": " 10.1109/ACCESS.2025.3536205",
+        "Keywords": "Blockchain online social media, content quality, decentralized online social networks, natural language processing, reward systems, social media, user-generated content.",
+        "Domain / research area": "blockchain"
+    },
+    {
+        "Paper_ID": "P02",
+        "Paper title": "Deep Multi-Source Visual Fusion With Transformer Model for Video Content Filtering",
+        "Authors": " Senthil Murugan Nagarajan, Ganesh Gopal Devarajan, Asha Jerlin M, Daniel Arockiam, Ali Kashif Bashir, and Maryam M. Al Dabel",
+        "Author affiliations / institutions": " 1Department of Mathematics, Faculty of Science, Technology, and Medicine, University of Luxembourg, Belval Campus, Esch-sur-Alzette, Luxembourg, 2Department of Computer Science & Engineering, Amity School of Engineering & Technology, Amity University, Noida, India, 3School of Computer Science and Engineering, Vellore Institute of Technology, Chennai, India, 4CSE-ASET, Amity University, MP, India, 5Department of Computing and Mathematics, Manchester Metropolitan University, U.K., Department of Computer Science & Information Technology, College of Engineering, Abu Dhabi University, Abu Dhabi, UAE, 6Department of Computer Science and Engineering, College of Computer Science and Engineering, University of Hafr Al Batin, Hafr Al Batin, Saudi Arabia",
+        "Publication year": 2025,
+        "Journal / conference name": "IEEE JOURNAL OF SELECTED TOPICS IN SIGNAL PROCESSING",
+        "DOI / arXiv ID / PubMed ID": "10.1109/JSTSP.2025.3569446",
+        "Keywords": "Multi-modal fusion, transformer model, deep learning, content filtering, speech enhancement.",
+        "Domain / research area": "Artificial Intelligence, transformer model, deep learning"
+    },
+    {
+        "Paper_ID": "P03",
+        "Paper title": "Content-Moderated Bilateral Access Control for Privacy-Preserving Cloud Data Sharing Services",
+        "Authors": "Chao Wang, Willy Susilo, Fellow, IEEE, Yudi Zhang, Yumei Li, and Qinlong Huang, Member, IEEE",
+        "Author affiliations / institutions": "1School of Cyberspace Security, Beijing University of Posts and Telecommunications, Beijing, China, National Engineering Research Center of Disaster Backup and Recovery, Beijing University of Posts and Telecommunications, Beijing, China, 2Institute of Cybersecurity and Cryptology, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia, 3Institute of Cybersecurity and Cryptology, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia, 4Institute of Cybersecurity and Cryptology, School of Computing and Information Technology, University of Wollongong, Wollongong, NSW, Australia, 5School of Cyberspace Security, Beijing, University of Posts and Telecommunications, Beijing, China, National Engineering Research Center of Disaster Backup and Recovery, Beijing University of Posts and Telecommunications, Beijing, China",
+        "Publication year": 2025,
+        "Journal / conference name": "IEEE TRANSACTIONS ON CLOUD COMPUTING",
+        "DOI / arXiv ID / PubMed ID": "10.1109/TCC.2025.3612322",
+        "Keywords": "Matchmaking encryption, anonymity, content moderation, message franking, cloud computing.",
+        "Domain / research area": "Cloud computing"
+    },
+    {
+        "Paper_ID": "P04",
+        "Paper title": "Text Moderation in Online Communities: Integrating User Attributes and Interaction Graph Embedding",
+        "Authors": "Dong Jing, Xu Gao, and Kee-Hung Lai",
+        "Author affiliations / institutions": "1School  of  Communication,  Soochow University,  Suzhou  215000,  China,  and  also  with  Faculty  of Business, The Hong Kong Polytechnic University, Hong Kong 999077, China, 2 School of Computer Science and Technology, Harbin Institute of Technology, Harbin 150000, China, 3Faculty of  Business,  The  Hong  Kong Polytechnic  University,  Hong  Kong  999077,  China.",
+        "Publication year": 2025,
+        "Journal / conference name": "BIG DATA MINING AND ANALYTICS",
+        "DOI / arXiv ID / PubMed ID": "10.26599/BDMA.2025.9020001",
+        "Keywords": " text moderation; pre-trained model; online community; user attributes; interaction graph embedding",
+        "Domain / research area": "Natural Language Processing, Deep Learning, and Graph-Based Social Network Analysis"
+    },
+    {
+        "Paper_ID": "P05",
+        "Paper title": "Structural Synchronization in Classification of Controversial Content",
+        "Authors": "Douglas Guilbeault  and Damon Centola",
+        "Author affiliations / institutions": "1Graduate  School  of  Business, Stanford  University,  Palo  Alto,  CA  94305,  USA, 2Annenberg School for Communication, University of Pennsylvania, Philadelphia, PA 19104, USA.",
+        "Publication year": 2025,
+        "Journal / conference name": "Journal of Social Computing ",
+        "DOI / arXiv ID / PubMed ID": "10.23919/JSC.2025.0024",
+        "Keywords": " text moderation; pre-trained model; online community; user attributes; interaction graph embedding",
+        "Domain / research area": "Social Computing, Machine Learning, and Collective Intelligence i"
+    },
+    {
+        "Paper_ID": "P06",
+        "Paper title": "Neural Moderation of ASMR Erotica Content in Social Networks",
+        "Authors": "Yixin Chen, DiJiang, Conghui Tan, Yuanfeng Song, Member, IEEE, Chen Zhang, Member, IEEE,and Lei Chen, Fellow, IEEE",
+        "Author affiliations / institutions": "1, 2, 3, 4AI Group, WeBank Co., Ltd, Shenzhen 518052, China , 5Hong Kong Polytechnic University (PolyU), Hung Hom, Hong Kong, 6Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong.",
+        "Publication year": 2024,
+        "Journal / conference name": "IEEE Transactions on Knowledge and Data Engineering",
+        "DOI / arXiv ID / PubMed ID": "10.1109/TKDE.2023.3283501",
+        "Keywords": "ASMR, content moderation, neural network",
+        "Domain / research area": "Deep Learning–Based Audio-Visual Content Moderation"
+    },
+    {
+        "Paper_ID": "P07",
+        "Paper title": "MSCMGTB: A Novel Approach for Multimodal Social Media Content Moderation Using Hybrid Graph Theory and Bio-Inspired Optimization",
+        "Authors": "PREMNARAYAN ARYA, AMIT KUMAR PANDEY, S. GOPAL KRISHNA PATRO, KRETIKA TIWARI, NIRANJAN PANIGRAHI, QUADRI NOORULHASAN NAVEED, AYODELE LASISI, AND WAHAJ AHMAD KHAN",
+        "Author affiliations / institutions": "1Department of Computer Engineering and Applications, GLA University, Mathura, Uttar Pradesh 281406, India, 2Department of CSE-DS, ABES Engineering College Affiliated to AKTU, Ghaziabad, Uttar Pradesh 201009, India, 3School of Technology, Woxsen University, Hyderabad, Telangana 502345, India, 4School of Engineering and Technology, Jagran Lakecity University, Bhopal, Madhya Pradesh 462011, India, 5Department of Computer Science and Engineering, Parala Maharaja Engineering College, Berhampur, Odisha 761003, India, 6Department of Computer Science, College of Computer Science, King Khalid University, Abha 62521, Saudi Arabia, 7School of Civil Engineering and Architecture, Institute of Technology, Dire-Dawa University, Dire Dawa 1362, Ethiopia",
+        "Publication year": 2024,
+        "Journal / conference name": "IEEE Access",
+        "DOI / arXiv ID / PubMed ID": "10.1109/ACCESS.2024.3400815",
+        "Keywords": "Deep learning, content moderation, social, media, multimodal analysis, hybrid models.",
+        "Domain / research area": "Multimodal Machine Learning and Hybrid Deep Learning Models for Social Media Moderation"
+    },
+    {
+        "Paper_ID": "P08",
+        "Paper title": "A Hypersensitive Intelligent Filter for Detecting Explicit Content in Learning Environments",
+        "Authors": "Yong Yu and Xiaoguo Yin",
+        "Author affiliations / institutions": "Henan Institute of Economics and Trade, Zhengzhou, Henan 450001, China",
+        "Publication year": 2024,
+        "Journal / conference name": "Journal of Web Engineering",
+        "DOI / arXiv ID / PubMed ID": "10.13052/jwe1540-9589.2314",
+        "Keywords": "Deep learning, fuzzy logic, GPT-3, learning environments, explicit content, intelligent filter.",
+        "Domain / research area": "Intelligent Content Filtering Using Hybrid AI Models"
+    },
+    {
+        "Paper_ID": "P09",
+        "Paper title": "VideoModerator: A Risk-aware Framework for Multimodal Video Moderation in E-Commerce",
+        "Authors": "Tan Tang, Yanhong Wu, Lingyun Yu, Yuhong Li and Yingcai Wu",
+        "Author affiliations / institutions": "1,2,3State Key Lab of CAD&CG, Zhejiang University and Zhejiang Lab, 4Department of Computing, Xi’an Jiaotong-Liverpool University, 5Alibaba Group",
+        "Publication year": 2022,
+        "Journal / conference name": "IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS",
+        "DOI / arXiv ID / PubMed ID": "10.1109/TVCG.2021.3114781",
+        "Keywords": "video moderation, video visualization, e-commerce livestreaming",
+        "Domain / research area": "Computer Vision–Based Video Moderation for E-Commerce Livestreaming"
+    },
+    {
+        "Paper_ID": "P10",
+        "Paper title": "Combating Abusive Information in Encrypted Messaging Services: A Secure and Efficient Realization",
+        "Authors": "Rui Lian, Yifeng Zheng, Member, IEEE, Yulong Ming, Chengjun Cai, Member, IEEE, Cong Wang, Fellow, IEEE, and Xiaohua Jia, Fellow, IEEE",
+        "Author affiliations / institutions": "1, 2, 3, 4Department of Computer Science, City University of Hong Kong, Hong Kong ,5Department of Electrical and Electronic Engineering, The Hong Kong Polytechnic University, Hong Kong, and also with The Hong Kong Polytechnic University Shenzhen Research Institute, Shenzhen 518057, China, 6Department of Computer Science, City Uni-versity of Hong Kong (Dongguang), Dongguang 523808, China",
+        "Publication year": 2025,
+        "Journal / conference name": "IEEE TRANSACTIONS ON SERVICES COMPUTING",
+        "DOI / arXiv ID / PubMed ID": "10.1109/TSC.2025.3616516",
+        "Keywords": "Content moderation, end-to-end encryption, threshold aggregation.",
+        "Domain / research area": "Computer Vision–Based Video Moderation for E-Commerce Livestreaming"
+    }
+]

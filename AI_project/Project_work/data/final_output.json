@@ -1,0 +1,110 @@
+{
+    "query": "What methods were used for content moderation?",
+    "answer": "Based on the provided context, the following methods were used for content moderation:\n\n1. Blocklisting servers (Paper ID: P01): In Mastodon, blocklisting servers prevent users of an instance from interacting with the content of servers spreading harmful or inappropriate content.\n2. Hiding certain content on the front end (Paper ID: P01): BOSMs like Steemit can simply operate on hiding certain content on their front end.\n3. Content removal is not possible (Paper ID: P01): In Hive, content removal is not possible, but many members of the community have evolved certain mechanisms and projects for moderating content.\n4. Jury system (Paper ID: P01): Minds applies a jury system instead of a content moderation team to check appeals for reported content.\n5. Democratic tagging system (Paper ID: P01): The jury system in Minds aims to involve users and give them a voice in deciding on the appropriateness of the content.\n6. Exposing a subset of posts (Paper ID: P01): In DeSo, every node that runs on top of the DeSo blockchain, including dApps, can expose whatever subset of the posts that they want, without showing illegal or harmful content.\n7. Incentivizing valuable content (Paper ID: P01): BOSMs can incentivize valuable content through reward strategies.\n8. MSCMGTB model (Paper ID: P07): The MSCMGTB model represents a significant step forward in the domain of social media content moderation, using hybrid graph theory and bio-inspired optimization.\n9. Self-supervised euphemism detection and identification (Paper ID: P04): This method is used for content moderation, but the details are not provided in the context.\n\nNote that the context does not provide a comprehensive list of all content moderation methods, but rather highlights some specific approaches used by various platforms and models.",
+    "model": "llama-3.1-8b-instant",
+    "total_time_sec": 2.24,
+    "generation_time": 1.18,
+    "prompt_tokens": 1809,
+    "total_tokens": 3210,
+    "sources": [
+        {
+            "paper_id": "P01",
+            "section": "Implementation",
+            "source_type": "section",
+            "score": 0.5580000281333923
+        },
+        {
+            "paper_id": "P07",
+            "section": "Conclusion",
+            "source_type": "section",
+            "score": 0.5241000056266785
+        },
+        {
+            "paper_id": "P05",
+            "section": "Introduction",
+            "source_type": "section",
+            "score": 0.5166000127792358
+        },
+        {
+            "paper_id": "P04",
+            "section": "relationships",
+            "source_type": "relationships",
+            "score": 0.4984999895095825
+        }
+    ],
+    "metrics": {
+        "confidence_score": {
+            "score": 0.5357,
+            "label": "Medium"
+        },
+        "precision_at_k": {
+            "score": 0.8,
+            "relevant_retrieved": 4,
+            "k": 5
+        },
+        "recall_at_k": {
+            "score": 1.0,
+            "relevant_retrieved": 4,
+            "total_relevant": 4
+        },
+        "semantic_similarity": {
+            "score": 0.6345
+        },
+        "faithfulness": {
+            "score": 0.5335,
+            "label": "Partially Faithful"
+        }
+    },
+    "retrieved_chunks": [
+        {
+            "rank": 1,
+            "score": 0.5580000281333923,
+            "chunk_id": "P01_chunk_003",
+            "paper_id": "P01",
+            "section": "Implementation",
+            "source_type": "section",
+            "token_count": 400,
+            "text": "Section: Implementation Paper: Striking the Balance: Evaluating Content Quality and Reward Dynamics in Blockchain Online Social Media implementation of moderation policies imposed by administrators. Another important study investigates whether and to what extent toxic content spreads in Pleroma, [34] and how to tackle this issue by proposing a system forcollaborative moderation. Federated DOSNs can apply some policies for content moderation thanks to the usage of servers. Among such platforms, Mastodon is probably the most studied one, thanks to the possibility of retrieving social content. In [35], in particular, the decentralised content moderation strategy employed by Mastodon is analyzed, where moderation is performed by specific users, and it is always applied locally, on the server instance. Specifically, so-called blocklisting servers prevent users of an instance from interacting with the content of servers spreading harmful or inappropriate content. BOSMs have the possibility of employing both ‘‘tra- ditional’’ decentralized content moderation strategies and reward strategies as a proxy to incentivize valuable content. Referring to the first approach, since BOSMs like Steemit are based on social blockchains where content is publicly available, they can simply operate on hiding certain content 13https://www.theguardian.com/media/2021/may/26/pro-palestine- censorship-facebook-instagramon their front end. In Hive, as previously introduced, born from a fork of the Steem blockchain, many members of the community have evolved certain mechanisms and projects for moderating content, even if content removal is not possible. Minds applies a jury system instead of a content moderation team to check appeals for reported content. The jury system aims to involve users and give them a voice in deciding on the appropriateness of the content. Every time a post is moderated, the original author of the post can appeal as to why the decision should be changed. The appeal is sent to twelve unique active users who are not subscribed to the reported channel. If 75% of the jury votes in favor of the appeal, then the initial decision is overturned. Otherwise, the initial decision is upheld. The jury can not ban or remove content, it is about building a democratic tagging system. In DeSo, every node that runs on top of the DeSo blockchain, including dApps, can expose whatever subset of the posts that they want, without showing illegal or harmful content. That content would still technically be on the blockchain, but not practically accessible. In this article, however, we focus on the second approach, i.e., the fact that BOSMs can incentivize"
+        },
+        {
+            "rank": 2,
+            "score": 0.5241000056266785,
+            "chunk_id": "P07_chunk_002",
+            "paper_id": "P07",
+            "section": "Conclusion",
+            "source_type": "section",
+            "token_count": 70,
+            "text": "Section: Conclusion\nPaper: MSCMGTB: A Novel Approach for Multimodal Social Media Content Moderation Using Hybrid Graph Theory and Bio-Inspired Optimization\n\nconclusion, the MSCMGTB model represents a sig-\nnificant step forward in the domain of social media content\nmoderation. Its proven effectiveness, coupled with the poten-\ntial for future enhancements, paves the way for more\nadvanced, reliable, and ethical content moderation solutions\nin the digital age sets.\n\nKey entities:\n  ORG: MSCMGTB"
+        },
+        {
+            "rank": 3,
+            "score": 0.5228999853134155,
+            "chunk_id": "P05_chunk_009",
+            "paper_id": "P05",
+            "section": "relationships",
+            "source_type": "relationships",
+            "token_count": 400,
+            "text": "and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Congress and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Congress and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Congress and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Yet, puzzlingly, recent large-scale analyses of classification patterns over social media find that distinct populations of internet users (e.g., Democrats and Republicans) can arrive at similar categorizations of inflammatory content, such as partisan news and hate speech[19–26], despite considerable differences in their political orientations and"
+        },
+        {
+            "rank": 4,
+            "score": 0.5166000127792358,
+            "chunk_id": "P05_chunk_003",
+            "paper_id": "P05",
+            "section": "Introduction",
+            "source_type": "section",
+            "token_count": 400,
+            "text": "Section: Introduction Paper: Structural Synchronization in Classification of Controversial Content Introduction Individuals vary substantially in how they categorizenovel phenomena[1–3] and particularly in how they interpret emotionally charged[4, 5] and morally controversial content[6] such as offensive and hateful images over social media. This individual variation is captured not only by experimental research[2, 3, 7], but also by qualitative and quantitative analyses of people who work as content moderators specializing in the practice of categorizing and removing controversial content that violates the community standards of social media[8–14]. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. E-mail: dguilb@stanford.edu. Damon Centola is with Annenberg School for Communication, University of Pennsylvania, Philadelphia, PA 19104, USA. E-mail: dcentola@asc.upenn.edu. * To whom correspondence should be addressed. Manuscript received: 2025-07-26; revised: 2025-10-30; accepted: 2025-11-10 JOURNAL OF SOCIAL COMPUTING Volume 6, Number 4, December 2025 ISSN 2097 -5015 02/07 pp287 −299 DOI: 10.23919/JSC.2025.0024 © The author(s) 2025. The articles published in this open access journal are distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/). Congress[15] and the United Nations[16], research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Yet, puzzlingly, recent large-scale analyses of classification patterns over social media find that distinct populations of internet users (e.g., Democrats and Republicans) can arrive at similar categorizations of inflammatory content, such as partisan news and hate speech[19–26], despite considerable differences in their political orientations and moral reasoning[27–29]. This raises an important puzzle: How can separate and diverse populations of social media users arrive at similar ways of categorizing controversial content, despite considerable differences in their interpretation of and approach to such content? Here, we provide novel insights into this puzzle by investigating how interacting in social networks can filter individual variation and lead separate networks (or “teams”) to arrive at highly similar classifications of controversial content, a phenomenon we refer to as structural synchronization. Our theory is motivated by recent studies of collective intelligence which find that exchanging information in structured social networks reduces variation in individual judgments within populations, while also leading to convergent solutions across populations[30–37]. In particular, a recent study by Guilbeault et al.[7] in 2021 finds that distinct populations with similar network"
+        },
+        {
+            "rank": 5,
+            "score": 0.4984999895095825,
+            "chunk_id": "P04_chunk_010",
+            "paper_id": "P04",
+            "section": "relationships",
+            "source_type": "relationships",
+            "token_count": 384,
+            "text": "social activity, Nat.Hum. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. Dong Jing received the PhD degree in computer science from Harbin Institute of Technology, China in 2021. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp."
+        }
+    ]
+}

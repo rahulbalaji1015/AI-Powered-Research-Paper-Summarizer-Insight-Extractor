@@ -1,0 +1,142 @@
+{
+    "query": "What methods were used to detect abusive content?",
+    "answer": "The methods used to detect abusive content mentioned in the provided papers are:\n\n1. Emojis as anchors to detect Arabic offensive language and hate speech [Paper ID: 12, Source 5, Section: Methods]\n2. Self-supervised euphemism detection and identification for content moderation [Paper ID: 13, Source 5, Section: Methods]\n3. Large language models (LLM) for content moderation [Paper ID: 14, Source 5, Section: Methods]\n4. Online adaptive AI content safety moderation with ensemble of LLM experts [Paper ID: 15, Source 5, Section: Methods]\n5. ChatGPT for detecting and discriminating hateful content [Paper ID: 16, Source 5, Section: Methods]\n6. BERT for pre-training of deep bidirectional transformers for language understanding [Paper ID: 17, Source 5, Section: Methods]\n7. User-aware multilingual abusive content detection in social media [Paper ID: 18, Source 5, Section: Methods]\n8. Deep learning based approach to content moderation of internet memes [Paper ID: 20, Source 5, Section: Methods]\n9. Deep learning-based framework for offensive text detection in unstructured data for heterogeneous social media [Paper ID: 21, Source 5, Section: Methods]\n\nThese methods are mentioned in the provided papers as being used for detecting abusive content.",
+    "model": "llama-3.1-8b-instant",
+    "metrics": {
+        "confidence_score": {
+            "score": 0.5376,
+            "label": "Medium",
+            "description": "Weighted similarity of retrieved chunks to query"
+        },
+        "precision_at_k": {
+            "score": 0.6,
+            "relevant_retrieved": 3,
+            "k": 5,
+            "threshold": 0.5,
+            "description": "3/5 chunks above similarity threshold 0.5"
+        },
+        "recall_at_k": {
+            "score": 1.0,
+            "relevant_retrieved": 3,
+            "total_relevant": 3,
+            "description": "3 of 3 relevant corpus chunks retrieved"
+        },
+        "semantic_similarity": {
+            "score": 0.6335,
+            "description": "Cosine similarity between query and answer embeddings"
+        },
+        "faithfulness": {
+            "score": 0.5717,
+            "label": "Partially Faithful",
+            "sentence_scores": [
+                {
+                    "sentence": "The methods used to detect abusive content mentioned in the provided papers are:  1",
+                    "max_similarity": 0.5839
+                },
+                {
+                    "sentence": "Emojis as anchors to detect Arabic offensive language and hate speech [Paper ID: 12, Source 5, Section: Methods] 2",
+                    "max_similarity": 0.6378
+                },
+                {
+                    "sentence": "Self-supervised euphemism detection and identification for content moderation [Paper ID: 13, Source 5, Section: Methods] 3",
+                    "max_similarity": 0.7684
+                },
+                {
+                    "sentence": "Large language models (LLM) for content moderation [Paper ID: 14, Source 5, Section: Methods] 4",
+                    "max_similarity": 0.5809
+                },
+                {
+                    "sentence": "Online adaptive AI content safety moderation with ensemble of LLM experts [Paper ID: 15, Source 5, Section: Methods] 5",
+                    "max_similarity": 0.5297
+                },
+                {
+                    "sentence": "ChatGPT for detecting and discriminating hateful content [Paper ID: 16, Source 5, Section: Methods] 6",
+                    "max_similarity": 0.5924
+                },
+                {
+                    "sentence": "BERT for pre-training of deep bidirectional transformers for language understanding [Paper ID: 17, Source 5, Section: Methods] 7",
+                    "max_similarity": 0.1978
+                },
+                {
+                    "sentence": "User-aware multilingual abusive content detection in social media [Paper ID: 18, Source 5, Section: Methods] 8",
+                    "max_similarity": 0.6279
+                },
+                {
+                    "sentence": "Deep learning based approach to content moderation of internet memes [Paper ID: 20, Source 5, Section: Methods] 9",
+                    "max_similarity": 0.577
+                },
+                {
+                    "sentence": "Deep learning-based framework for offensive text detection in unstructured data for heterogeneous social media [Paper ID: 21, Source 5, Section: Methods]  These methods are mentioned in the provided papers as being used for detecting abusive content",
+                    "max_similarity": 0.621
+                }
+            ],
+            "description": "How grounded the answer is in retrieved context"
+        }
+    },
+    "sources": [
+        {
+            "paper_id": "P04",
+            "section": "citations",
+            "source_type": "citations",
+            "score": 0.5514000058174133
+        },
+        {
+            "paper_id": "P05",
+            "section": "Introduction",
+            "source_type": "section",
+            "score": 0.5504000186920166
+        }
+    ],
+    "retrieved_chunks": [
+        {
+            "rank": 1,
+            "score": 0.5514000058174133,
+            "chunk_id": "P04_chunk_011",
+            "paper_id": "P04",
+            "section": "citations",
+            "source_type": "citations",
+            "token_count": 173,
+            "text": "References cited in: Text Moderation in Online Communities: Integrating User Attributes and Interaction Graph Embedding\n\n  [R31] (In)visible moderation: A digital ethnography of marginalized users and content moderation on twitch and Reddit (2024) — cited 113.0 times\n  [R32] The  psychological  impacts  of  content moderation  on  content  moderators: A  qualitative  study, Cyberpsychology (2023) — cited 68.0 times\n  [R33] The effect of content moderation on online and offline hate: Evidence from  Germany’s  NetzDG.  Coventry (2024) — cited 5.0 times\n  [R34] Deep learning for hate speech detection in tweets (2017) — cited 697.0 times\n  [R35] Multigrained  representation  analysis and  ensemble  learning  for  text  moderation (2023) — cited 4.0 times\n  [R36] Watch your  language: Investigating  content  moderation  with large language models (2024) — cited 120.0 times\n  [R37] Author  profiling  for  abuse  detection (2018) — cited 2.0 times\n  [R38] Improved abusive comment moderation with  user  embeddings (2017) — cited 48.0 times\n  [R39] NLP  based  hate  speech  detection  and moderation (2023) — cited 2.0 times\n  [R40] Transfer  learning  for  hate  speech  detection  in social  media (2023) — cited 40.0 times"
+        },
+        {
+            "rank": 2,
+            "score": 0.5504000186920166,
+            "chunk_id": "P05_chunk_003",
+            "paper_id": "P05",
+            "section": "Introduction",
+            "source_type": "section",
+            "token_count": 400,
+            "text": "Section: Introduction Paper: Structural Synchronization in Classification of Controversial Content Introduction Individuals vary substantially in how they categorizenovel phenomena[1–3] and particularly in how they interpret emotionally charged[4, 5] and morally controversial content[6] such as offensive and hateful images over social media. This individual variation is captured not only by experimental research[2, 3, 7], but also by qualitative and quantitative analyses of people who work as content moderators specializing in the practice of categorizing and removing controversial content that violates the community standards of social media[8–14]. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. E-mail: dguilb@stanford.edu. Damon Centola is with Annenberg School for Communication, University of Pennsylvania, Philadelphia, PA 19104, USA. E-mail: dcentola@asc.upenn.edu. * To whom correspondence should be addressed. Manuscript received: 2025-07-26; revised: 2025-10-30; accepted: 2025-11-10 JOURNAL OF SOCIAL COMPUTING Volume 6, Number 4, December 2025 ISSN 2097 -5015 02/07 pp287 −299 DOI: 10.23919/JSC.2025.0024 © The author(s) 2025. The articles published in this open access journal are distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/). Congress[15] and the United Nations[16], research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Yet, puzzlingly, recent large-scale analyses of classification patterns over social media find that distinct populations of internet users (e.g., Democrats and Republicans) can arrive at similar categorizations of inflammatory content, such as partisan news and hate speech[19–26], despite considerable differences in their political orientations and moral reasoning[27–29]. This raises an important puzzle: How can separate and diverse populations of social media users arrive at similar ways of categorizing controversial content, despite considerable differences in their interpretation of and approach to such content? Here, we provide novel insights into this puzzle by investigating how interacting in social networks can filter individual variation and lead separate networks (or “teams”) to arrive at highly similar classifications of controversial content, a phenomenon we refer to as structural synchronization. Our theory is motivated by recent studies of collective intelligence which find that exchanging information in structured social networks reduces variation in individual judgments within populations, while also leading to convergent solutions across populations[30–37]. In particular, a recent study by Guilbeault et al.[7] in 2021 finds that distinct populations with similar network"
+        },
+        {
+            "rank": 3,
+            "score": 0.5436000227928162,
+            "chunk_id": "P05_chunk_009",
+            "paper_id": "P05",
+            "section": "relationships",
+            "source_type": "relationships",
+            "token_count": 400,
+            "text": "and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Congress and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Congress and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Congress and the United Nations, research shows that even trained content moderators consistently disagree in their decisions for how to classify hate speech and offensive images, and whether to remove this content[8, 10–14, 17, 18]. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Despite the urgency of content moderation, which has been recognized by both Douglas Guilbeault is with Graduate School of Business, Stanford University, Palo Alto, CA 94305, USA. Yet, puzzlingly, recent large-scale analyses of classification patterns over social media find that distinct populations of internet users (e.g., Democrats and Republicans) can arrive at similar categorizations of inflammatory content, such as partisan news and hate speech[19–26], despite considerable differences in their political orientations and"
+        },
+        {
+            "rank": 4,
+            "score": 0.4975000023841858,
+            "chunk_id": "P04_chunk_010",
+            "paper_id": "P04",
+            "section": "relationships",
+            "source_type": "relationships",
+            "token_count": 384,
+            "text": "social activity, Nat.Hum. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. Dong Jing received the PhD degree in computer science from Harbin Institute of Technology, China in 2021. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp."
+        },
+        {
+            "rank": 5,
+            "score": 0.47699999809265137,
+            "chunk_id": "P04_chunk_005",
+            "paper_id": "P04",
+            "section": "Methods",
+            "source_type": "section",
+            "token_count": 400,
+            "text": "Section: Methods Paper: Text Moderation in Online Communities: Integrating User Attributes and Interaction Graph Embedding Methods in Natural Language Processing (EMNLP), Virtual Event, 2020, pp. 4735−4741.[12] H. Mubarak, S. Hassan, and S. A. Chowdhury, Emojis as anchors to detect Arabic offensive language and hate speech, Nat. Lang. Eng., vol. 29, no. 6, pp. 1436–1457, 2023.[13] W. Zhu, H. Gong, R. Bansal, Z. Weinberg, N. Christin, G. Fanti, and S. Bhat, Self-supervised euphemism detection and identification for content moderation, in Proc. 2021 IEEE Symp. Security and Privacy (SP), San Francisco, CA, USA, 2021, pp. 229−246.[14] M. Kolla, S. Salunkhe, E. Chandrasekharan, and K. Saha, LLM-Mod: Can large language models assist content moderation? in Proc. Extended Abstracts of the CHI Conf. Human Factors in Computing Systems, Honolulu, HI, USA, 2024, p. 217.[15] S. Ghosh, P. Varshney, E. Galinkin, and C. Parisien, AEGIS: Online adaptive AI content safety moderation with ensemble of LLM experts, arXiv preprint arXiv: 2404.05993, 2024.[16] L. Li, L. Fan, S. Atreja, and L. Hemphill, “hot” ChatGPT: The promise of ChatGPT in detecting and discriminating hateful, ACM Trans. Web, vol. 18, no. 2, p. 30, 2024.[17] J. Devlin, M. W. Chang, K. Lee, and K. Toutanova, BERT: Pre-training of deep bidirectional transformers for language understanding, in Proc. 2019 Conf. of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), Minneapolis, MN, USA, 2019, pp. 4171−4186.[18] M. Z. U. Rehman, S. Mehta, K. Singh, K. Kaushik, and N. Kumar, User-aware multilingual abusive content detection in social media, Inf. Process. Manage., vol. 60, no. 5, p. 103450, 2023.[19] S. Nagar, F. A. Barbhuiya, and K. Dey, Towards more robust hate speech detection: Using social context and user data, Soc. Netw. Anal. Min., vol. 13, no. 1, p. 47, 2023.[20] G. Macrayo, W. Casiño, J. Dalangin, J. G. Gahoy, A. C. Reyes, C. Vitto, M. Abisado, S. L. Huyo-a, and G. A. Sampedro, Please be nice: A deep learning based approach to content moderation of internet memes, in Proc. 2023 Int. Conf. Electronics, Information, and Communication (ICEIC), Singapore, 2023, pp. 1−5.[21] J. Bacha, F. Ullah, J. Khan, A. W. Sardar, and S. Lee, A deep learning-based framework for offensive text detection in unstructured data for heterogeneous social media, IEEE Access, vol. 11, pp. 124484–124498, 2023.[22] Y. Y. Lim, M. S. Hee, X. W. Yee, W. K. Yau, X. Sim, W. Tay, W. S."
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+[
+    {
+        "query": "What methods were used for content moderation?",
+        "answer": "Based on the provided context, the following methods were used for content moderation:\n\n1. Blocklisting servers (Paper ID: P01): In Mastodon, blocklisting servers prevent users of an instance from int...",
+        "confidence": 0.5357,
+        "faithfulness": 0.5335,
+        "time": 2.24
+    }
+]

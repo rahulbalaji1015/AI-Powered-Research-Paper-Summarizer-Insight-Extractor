@@ -1,0 +1,77 @@
+[
+  {
+    "labels(n)": [
+      "PERSON"
+    ],
+    "n": {
+      "identity": 0,
+      "labels": [
+        "PERSON"
+      ],
+      "properties": {
+        "name": "ANDREA"
+      },
+      "elementId": "4:48242d63-e9b4-4fa4-9463-b93febf40515:0"
+    }
+  },
+  {
+    "labels(n)": [
+      "ORG"
+    ],
+    "n": {
+      "identity": 1,
+      "labels": [
+        "ORG"
+      ],
+      "properties": {
+        "name": "Informatica"
+      },
+      "elementId": "4:48242d63-e9b4-4fa4-9463-b93febf40515:1"
+    }
+  },
+  {
+    "labels(n)": [
+      "ORG"
+    ],
+    "n": {
+      "identity": 2,
+      "labels": [
+        "ORG"
+      ],
+      "properties": {
+        "name": "Sistemistica e Comunicazione"
+      },
+      "elementId": "4:48242d63-e9b4-4fa4-9463-b93febf40515:2"
+    }
+  },
+  {
+    "labels(n)": [
+      "GPE"
+    ],
+    "n": {
+      "identity": 3,
+      "labels": [
+        "GPE"
+      ],
+      "properties": {
+        "name": "Università"
+      },
+      "elementId": "4:48242d63-e9b4-4fa4-9463-b93febf40515:3"
+    }
+  },
+  {
+    "labels(n)": [
+      "GPE"
+    ],
+    "n": {
+      "identity": 4,
+      "labels": [
+        "GPE"
+      ],
+      "properties": {
+        "name": "Studi"
+      },
+      "elementId": "4:48242d63-e9b4-4fa4-9463-b93febf40515:4"
+    }
+  }
+]

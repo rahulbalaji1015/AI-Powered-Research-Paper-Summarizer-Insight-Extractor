@@ -1,0 +1,23 @@
+[
+  {
+    "label": "PERSON"
+  },
+  {
+    "label": "ORG"
+  },
+  {
+    "label": "GPE"
+  },
+  {
+    "label": "WORK_OF_ART"
+  },
+  {
+    "label": "PRODUCT"
+  },
+  {
+    "label": "EVENT"
+  },
+  {
+    "label": "Entity"
+  }
+]

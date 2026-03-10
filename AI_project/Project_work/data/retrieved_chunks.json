@@ -1,0 +1,58 @@
+{
+    "query": "Which papers use deep learning for social media?",
+    "top_k": 5,
+    "total_retrieved": 5,
+    "min_score": 0.2,
+    "results": [
+        {
+            "rank": 1,
+            "score": 0.5110999941825867,
+            "chunk_id": "P07_chunk_005",
+            "paper_id": "P07",
+            "section": "Implementation",
+            "source_type": "section",
+            "token_count": 400,
+            "text": "the visual content analysis strength of MSCMGTB. It contains over 300,000 multimedia posts from various social media platforms, tagged with engagement metrics like likes, shares, and comments. This dataset aids in understanding how visual content correlates with user engagement and sentiment. •ZENPULSAR - Social Media Pulse Data Set: CRYPTO: This dataset is unique as it provides sentiment data extracted from over 0.5 billion data points across seven major social media platforms. It focuses on the cryptocurrency domain, offering insights into public sentiment on social media about various cryptocurrencies. The dataset’s volume and domain-specific nature make it ideal for testing the MSCMGTB model’s ability to process and analyze large- scale, topic-specific social media content. B. MODEL PARAMETERS SET-UP •Convolutional Neural Networks (CNNs) Parameters: For image and video content analysis, the CNNs were configured with a learning rate of 0.001, a batch size of 32, and dropout rate of 0.5 to prevent overfitting. The CNNs employed a totalof 5 convolutional layers, each followed by a max-pooling layer. •Transformers Parameters: For textual content analysis, the Transformers were set up with a model size of 768, 12 attention heads, and 3 encoder-decoder layers. A token limit of 512 was set for processing textual inputs. •Bi-directional Attention Mechanism (BAM) Parameters: BAM was integrated to dynamically prioritize information from textual and visual inputs. The attention mechanism had a dimensionality of 1024 and used a softmax activation function to balance the focus between modalities. •Genetic Algorithms (GAs) for Hyperparameter Opti- mization: The population size was set to 50, with a mutation rate of 0.1 and a crossover probability of 0.9. The GAs ran for 100 generations to optimize the model’s performance parameters. •Graph Neural Networks (GNNs) Parameters: GNNs were employed to discern complex intra and inter-modal relation- ships. The GNN layer count was set to 3, with a hidden layer size of 256. C. SIMULATION ENVIRONMENT & PERFORMANCE METRICS The experiments were conducted on a high-performance computing cluster with NVIDIA Tesla V100 GPUs, 128 GB RAM, and Intel Xeon Gold 6130 CPUs. This setup ensured the timely processing of large datasets and the seamless exe- cution of deep learning models. This experimental setup, with its comprehensive datasets and meticulously chosen parameters, was crucial in rigor- ously evaluating the MSCMGTB model. The diverse nature of the datasets, along with the robust computational resources and evaluation metrics, provided a thorough and effective platform for assessing the model’s capabilities in"
+        },
+        {
+            "rank": 2,
+            "score": 0.4984999895095825,
+            "chunk_id": "P07_chunk_028",
+            "paper_id": "P07",
+            "section": "citations",
+            "source_type": "citations",
+            "token_count": 195,
+            "text": "References cited in: MSCMGTB: A Novel Approach for Multimodal Social Media Content Moderation Using Hybrid Graph Theory and Bio-Inspired Optimization\n\n  [R61] Cross-platform item recommendation for online social E-Commerce (2023) — cited 19.0 times\n  [R62] A citizen science approach for analyzing social media with crowdsourcing (2023) — cited 16.0 times\n  [R63] Disentangled modeling of social homophily and influence for social recommendation (2023) — cited 16.0 times\n  [R64] Deep learning-based drug recommenda-tion and ADR detection healthcare model on social media (2023) — cited 22.0 times\n  [R65] Combining social relations and interaction data in recommender system with graph convolution collaborative filtering (2023) — cited 8.0 times\n  [R66] A deep learning-based framework for offensive text detection in unstructured data for heterogeneous social media (2023) — cited 16.0 times\n  [R67] Achieving online and scalable information integrity by harnessing social spam correlations (2023) — cited 5.0 times\n  [R68] SGNR: A social graph neural network based interactive recommendation scheme for E-Commerce (2023) — cited 44.0 times\n  [R69] Real-time detection of COVID-19 events from Twitter: A spatial–temporally bursty-aware method (2023) — cited 6.0 times\n  [R70] ML-NLPEmot: Machine learning-natural language processing event-based emotion detection proactive framework addressing mental health (2023) — cited 12.0 times"
+        },
+        {
+            "rank": 3,
+            "score": 0.4925000071525574,
+            "chunk_id": "P07_chunk_001",
+            "paper_id": "P07",
+            "section": "metadata",
+            "source_type": "metadata",
+            "token_count": 74,
+            "text": "Paper ID: P07\nTitle: MSCMGTB: A Novel Approach for Multimodal Social Media Content Moderation Using Hybrid Graph Theory and Bio-Inspired Optimization\nAuthors: PREMNARAYAN ARYA, AMIT KUMAR PANDEY, S. GOPAL KRISHNA PATRO, KRETIKA TIWARI, NIRANJAN PANIGRAHI, QUADRI NOORULHASAN NAVEED, AYODELE LASISI, AND WAHAJ AHMAD KHAN\nYear: 2024\nPublished in: IEEE Access\nDomain: Multimodal Machine Learning and Hybrid Deep Learning Models for Social Media Moderation\nKeywords: content moderation, Deep learning, social, media, multimodal analysis, hybrid models."
+        },
+        {
+            "rank": 4,
+            "score": 0.492000013589859,
+            "chunk_id": "P07_chunk_007",
+            "paper_id": "P07",
+            "section": "Methods",
+            "source_type": "section",
+            "token_count": 400,
+            "text": "Section: Methods Paper: MSCMGTB: A Novel Approach for Multimodal Social Media Content Moderation Using Hybrid Graph Theory and Bio-Inspired Optimization methods, thus can be applied for real- time scenarios. Next, we discuss the pre-emption capabilities of the model under different scenarios. E. PRE-EMPTION ANALYSIS In this section, we discuss the efficiency of the proposed model in terms of pre-emption capabilities for identifica- tion of social media content types. This efficiency was estimated in terms of different metrics, and compared with Graph-Based Non-Sampling (GNS) [20], MCWDST [25], and Recurrent Neural Network (RNN) [33], which will assist readers to identify optimal working conditions of the proposed model for different scenarios. For instance, the pre-emption precision of the proposed model can be observed from figure 10as follows, Analyzing the data, MSCMGTB consistently exhibits high precision across different NTS values, underscoring its effec- tiveness in pre-empting social media content types. For instance, at a lower NTS value of 63k, MSCMGTB shows a precision of 95.01%, significantly outperforming GNS FIGURE 11. Observed accuracy to pre-empt social media content types. (86.70%), MCWDST (77.83%), and RNN (83.07%). This trend of MSCMGTB maintaining superior precision contin- ues as the number of test samples increases. At 117k NTS, MSCMGTB’s precision further escalates to 98.09%, which is notably higher than the precision rates of the other models, including MCWDST which shows a precision of 92.78%. This indicates MSCMGTB’s robust capability in accurately pre-empting content types even as the complexity and volume of the data increase. Throughout the range of NTS values, MSCMGTB’s pre- cision generally remains above 90%, demonstrating its consistent performance. For example, at a higher NTS of 864k, MSCMGTB achieves a precision of 98.93%, indicating its strong predictive accuracy in a wide range of scenarios. The observed precision values for MSCMGTB can be attributed to its advanced design, which likely includes mechanisms for effectively analyzing patterns and predict- ing content categorizations. This capability is crucial for pre-emptive content moderation, where the goal is to accu- rately identify potentially harmful or inappropriate content before it becomes widely visible or causes harm. Moreover, the integration of techniques like CNNs, Trans- formers, and bioinspired optimizations in MSCMGTB may contribute to its high precision in pre-emption. These tech- niques enable the model to process and understand complex multimodal content, facilitating more accurate predictions. Similar to that, accuracy of the models was compared in Figure 11 as follows, A thorough analysis of the"
+        },
+        {
+            "rank": 5,
+            "score": 0.48190000653266907,
+            "chunk_id": "P07_chunk_003",
+            "paper_id": "P07",
+            "section": "Discussion",
+            "source_type": "section",
+            "token_count": 113,
+            "text": "Section: Discussion\nPaper: MSCMGTB: A Novel Approach for Multimodal Social Media Content Moderation Using Hybrid Graph Theory and Bio-Inspired Optimization\n\ndiscussion on the innovative methodologies\nemployed, their underlying rationale, and the impactful out-\ncomes of this research. It underscores the significance of\nadvanced deep learning techniques in enhancing the safety\nand integrity of social media platforms, a necessity in today’s\ndigitally interconnected world scenarios.\nA. MOTIVATION\nIn the ever-expanding landscape of social media, the moti-\nvation for developing advanced content moderation tools\nis multi-faceted and pressing. The exponential growth of\nuser-generated content on these platforms has amplified the\nchallenges associated with monitoring and filtering harmful\nmaterial. Traditional content moderation\n\nKey entities:\n  DATE: today"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "labels(p)": [
+      "PERSON"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "ORG"
+    ]
+  },
+  {
+    "labels(p)": [
+      "ORG"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "ORG"
+    ]
+  },
+  {
+    "labels(p)": [
+      "ORG"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "PERSON"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  },
+  {
+    "labels(p)": [
+      "GPE"
+    ],
+    "type(r)": "STRIKE",
+    "labels(s)": [
+      "GPE"
+    ]
+  }
+]
